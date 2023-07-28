@@ -84,7 +84,6 @@ html:focus-within {
 
 html, body{
   min-height: 100%;
-  overflow-x: hidden;
 }
 
 /* Set core body defaults */
